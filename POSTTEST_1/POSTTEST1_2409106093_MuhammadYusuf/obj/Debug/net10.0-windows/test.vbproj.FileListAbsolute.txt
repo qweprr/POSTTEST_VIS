@@ -1,0 +1,16 @@
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\bin\Debug\net10.0-windows\test.exe
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\bin\Debug\net10.0-windows\test.deps.json
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\bin\Debug\net10.0-windows\test.runtimeconfig.json
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\bin\Debug\net10.0-windows\test.dll
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\bin\Debug\net10.0-windows\test.pdb
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.Form1.resources
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.vbproj.GenerateResource.cache
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.AssemblyInfoInputs.cache
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.AssemblyInfo.vb
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.vbproj.CoreCompileInputs.cache
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.dll
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\refint\test.dll
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.pdb
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\test.genruntimeconfig.cache
+D:\Posttest VIS\Posttest1_2409106093_MuhammadYusuf\test\obj\Debug\net10.0-windows\ref\test.dll
